@@ -1,4 +1,6 @@
 physionet/ 
 data/
 preprocessed_data/
+./.zed/
+./.ipynb_checkpoints/
 
