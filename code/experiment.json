@@ -1,0 +1,6 @@
+{
+  "script": "train_model.py",
+  "resource": "cpu",
+  "n_parallel": 1,
+  "target": ""
+}
